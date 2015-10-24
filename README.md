@@ -1,5 +1,13 @@
 == Welcome to Rails
 
+## Rails Girls 2015 
+
+-----
+
+### L.A. Adventure App
+
+*Made by* **Susmita**
+
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
